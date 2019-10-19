@@ -3,7 +3,7 @@
   <nav class="deep-purple darken-1">
     <div class="container">
       <a href="#" clss="brand-logo left">GeoNinjas!</a>
-      <ul clss="right">
+      <ul class="right">
         <li><a href="#">Signup</a></li>
         <li><a href="#">Login</a></li>
       </ul>
@@ -19,7 +19,7 @@ export default {
   name: 'Navbar',
   data() {
     return {
-      
+
     }
   }
 }
